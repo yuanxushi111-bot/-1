@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "default_host": "deepseekharness",
+  "project": {
+    "school": "厦门大学",
+    "subject": "税法学",
+    "target_exam_month": "2027-12",
+    "daily_minutes": null
+  },
+  "paths": {
+    "library": "library",
+    "index": "indexes",
+    "records": "userdata/study-records"
+  }
+}

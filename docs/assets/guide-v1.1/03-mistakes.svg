@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title-3 desc-3">
+<title id="title-3">错题自动收录，跨日再验证</title><desc id="desc-3">同题聚合保存经历；当天看答案后重答，不算跨日掌握。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="820" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">错题自动收录，跨日再验证</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">同题聚合保存经历；当天看答案后重答，不算跨日掌握。</text>
+<rect x="50" y="158" width="320" height="160" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="78" y="204" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#1D705A">待复习</text>
+<text x="78" y="252" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">重要错误、核心遗漏</text>
+<text x="78" y="287" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">或依赖提示时自动收录</text>
+<rect x="440" y="158" width="320" height="160" rx="18" fill="#E5F1E9" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="468" y="204" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#1D705A">复测中</text>
+<text x="468" y="252" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">一次跨日、无提示通过</text>
+<text x="468" y="287" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">仍需覆盖原先的错点</text>
+<rect x="830" y="158" width="320" height="160" rx="18" fill="#E5F1E9" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="858" y="204" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#1D705A">已巩固</text>
+<text x="858" y="252" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">两个不同日期独立通过</text>
+<text x="858" y="287" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">原错点覆盖，历史继续保留</text>
+<line x1="382" y1="238" x2="428" y2="238" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-3)"/>
+<line x1="772" y1="238" x2="818" y2="238" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-3)"/>
+<path d="M 990 331 V 377 H 210 V 331" fill="none" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-3)"/>
+<text x="600" y="417" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle" fill="#1D705A">再次答错或依赖提示 → 回到待复习</text>
+<rect x="50" y="451" width="1100" height="69" rx="12" fill="#F8F0DF"/>
+<text x="74" y="494" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#7B5927">待核实</text>
+<text x="221" y="493" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#7B5927">来源冲突、题目不完整或证据不足：保留问题，不计为确认错误。</text>
+<rect x="50" y="552" width="535" height="178" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="76" y="592" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">原始学习记录</text>
+<text x="76" y="635" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#1D705A">userdata/study-records/</text>
+<text x="76" y="668" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#1D705A">YYYY-MM-DD.md</text>
+<text x="76" y="705" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">真实作答、答案与复测事件</text>
+<rect x="615" y="552" width="535" height="178" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="641" y="592" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">自动错题本</text>
+<text x="641" y="635" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#1D705A">userdata/mistake-book/</text>
+<text x="641" y="668" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#1D705A">YYYY-MM-DD.md + 错题索引.md</text>
+<text x="641" y="705" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">可从学习日志重建的错题视图</text>
+<text x="50" y="764" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">个人笔记写学习日志；不要直接改自动生成的错题页或结构化JSON。</text>
+<text x="50" y="798" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#546B63">V1.1 使用教程 · 操作示意，非真实软件截图</text>
+<text x="1150" y="798" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#546B63">03 / 04</text>
+</svg>

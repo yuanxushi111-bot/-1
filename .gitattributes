@@ -1,0 +1,12 @@
+* text=auto eol=lf
+*.cmd text eol=crlf
+
+# Source hashes refer to exact bytes. Never normalize imported material.
+library/** -text
+indexes/** -text
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.sqlite binary
+*.zip binary

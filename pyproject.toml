@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tax-exam-skill"
+version = "1.2.0"
+description = "Source-linked exam coaching tools and a DeepSeek Harness skill"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+tax-exam = "tax_exam.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

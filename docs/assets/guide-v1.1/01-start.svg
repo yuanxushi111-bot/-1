@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title-1 desc-1">
+<title id="title-1">第一次使用：完成这四步</title><desc id="desc-1">Windows私人完整包 + DeepSeek Harness；找到含 tools.cmd 的项目根目录。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="800" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">第一次使用：完成这四步</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">Windows私人完整包 + DeepSeek Harness；找到含 tools.cmd 的项目根目录。</text>
+<rect x="50" y="130" width="535" height="250" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="615" y="130" width="535" height="250" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="50" y="410" width="535" height="250" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="615" y="410" width="535" height="250" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<circle cx="95" cy="166" r="20" fill="#1D705A"/>
+<text x="95" y="174" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="white">1</text>
+<text x="129" y="175" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">解压到独立目录</text>
+<text x="85" y="219" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">D:\kaoyan-agent</text>
+<text x="105" y="260" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">检查安装.cmd</text>
+<text x="105" y="294" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">tools.cmd</text>
+<text x="105" y="328" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">library / runtime / .dsh</text>
+<circle cx="660" cy="166" r="20" fill="#1D705A"/>
+<text x="660" y="174" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="white">2</text>
+<text x="694" y="175" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">双击“检查安装.cmd”</text>
+<rect x="645" y="202" width="475" height="115" rx="12" fill="#193C35"/>
+<text x="672" y="246" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="400" text-anchor="start" fill="#F3F8F4">&quot;version&quot;: &quot;1.1.0&quot;</text>
+<text x="672" y="285" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#A8E8BD">&quot;ready&quot;: true</text>
+<text x="645" y="351" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">ready仅表示本地资料和工具检查通过</text>
+<circle cx="95" cy="446" r="20" fill="#1D705A"/>
+<text x="95" y="454" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="white">3</text>
+<text x="129" y="455" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">在Harness选择项目</text>
+<rect x="85" y="482" width="465" height="64" rx="10" fill="#E5F1E9"/>
+<text x="107" y="524" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#1D705A">工作区：D:\kaoyan-agent</text>
+<text x="85" y="588" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">选中含 tools.cmd 的那一层。</text>
+<text x="85" y="625" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">在宿主里配置自己的模型连接。</text>
+<circle cx="660" cy="446" r="20" fill="#1D705A"/>
+<text x="660" y="454" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="white">4</text>
+<text x="694" y="455" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">新会话加载Skill</text>
+<rect x="645" y="482" width="475" height="64" rx="10" fill="#E5F1E9"/>
+<text x="668" y="524" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#1D705A">/tax-exam-coach</text>
+<text x="645" y="588" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">再告诉它：今天有多久，想练什么。</text>
+<text x="645" y="625" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">一次只出一题，先让我独立回答。</text>
+<rect x="50" y="699" width="1100" height="52" rx="12" fill="#E5F1E9"/>
+<text x="74" y="733" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#1D705A">复习现有资料：不用先下载OCR模型；私人包已带工具运行环境。</text>
+<text x="50" y="778" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#546B63">V1.1 使用教程 · 操作示意，非真实软件截图</text>
+<text x="1150" y="778" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#546B63">01 / 04</text>
+</svg>

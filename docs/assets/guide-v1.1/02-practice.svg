@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="title-2 desc-2">
+<title id="title-2">每天练题：你先答，它再讲</title><desc id="desc-2">题目先隐藏答案；作答后，同一轮完成参考答案与分析。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="1000" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">每天练题：你先答，它再讲</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">题目先隐藏答案；作答后，同一轮完成参考答案与分析。</text>
+<rect x="50" y="135" width="470" height="525" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="550" y="135" width="600" height="525" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="78" y="181" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#193C35">你只需做两件事</text>
+<rect x="75" y="212" width="420" height="115" rx="14" fill="#E5F1E9"/>
+<text x="96" y="247" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">今天有20分钟，先练一道到期错题。</text>
+<text x="96" y="282" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">先不要展示答案。</text>
+<text x="79" y="372" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#546B63">Skill先出题，等待你回答。</text>
+<rect x="75" y="414" width="420" height="160" rx="14" fill="#E5F1E9"/>
+<text x="96" y="456" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">我的回答是：……</text>
+<text x="96" y="498" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">这里提交你的真实作答。</text>
+<text x="96" y="533" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">用过提示或看过答案，也要说明。</text>
+<text x="78" y="624" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">答后自动保存到日期Markdown</text>
+<text x="580" y="181" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#193C35">答完后，按这个顺序看</text>
+<rect x="575" y="207" width="550" height="91" rx="12" fill="#F4F7F2"/>
+<text x="596" y="240" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">01   判定</text>
+<text x="596" y="274" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">一句话说明本次作答情况。</text>
+<rect x="575" y="314" width="550" height="91" rx="12" fill="#E5F1E9"/>
+<text x="596" y="347" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">02   完整参考答案</text>
+<text x="596" y="381" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">有题库答案就给原文；没有则依据教材拟答。</text>
+<rect x="575" y="421" width="550" height="91" rx="12" fill="#F4F7F2"/>
+<text x="596" y="454" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">03   要点对照分析</text>
+<text x="596" y="488" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">覆盖 / 部分覆盖 / 遗漏 / 错误 / 待核实</text>
+<rect x="575" y="528" width="550" height="91" rx="12" fill="#F4F7F2"/>
+<text x="596" y="561" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">04   复习安排</text>
+<text x="596" y="595" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">说明原错点、下次日期与实际保存结果。</text>
+<rect x="50" y="708" width="350" height="167" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="74" y="751" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">题库有答案</text>
+<text x="74" y="799" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">直接展示原文与来源性质。</text>
+<text x="74" y="833" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">参考答案不自动升级为官方标准。</text>
+<rect x="425" y="708" width="350" height="167" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="449" y="751" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">题库没有答案</text>
+<text x="449" y="799" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">核对本地教材，再整理完整拟答。</text>
+<text x="449" y="833" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">标注：AI依据教材整理，非官方。</text>
+<rect x="800" y="708" width="350" height="167" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="824" y="751" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">资料证据不足</text>
+<text x="824" y="799" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">明确指出缺口，保留待核实。</text>
+<text x="824" y="833" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">不强行编答案或确定判分。</text>
+<text x="50" y="929" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#1D705A">只想要提示？明确说：先给一个小提示，暂不展示完整答案。</text>
+<text x="50" y="978" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#546B63">V1.1 使用教程 · 操作示意，非真实软件截图</text>
+<text x="1150" y="978" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#546B63">02 / 04</text>
+</svg>

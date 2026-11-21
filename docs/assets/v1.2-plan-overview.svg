@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980" role="img" aria-labelledby="title-12 desc-12">
+<title id="title-12">V1.2：每天学什么、背什么</title><desc id="desc-12">以《严明法学讲义》为主，按当天可用时间，安排一条完整的学习路径。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-12" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="980" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">V1.2：每天学什么、背什么</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">以《严明法学讲义》为主，按当天可用时间，安排一条完整的学习路径。</text>
+<rect x="50" y="140" width="535" height="150" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="615" y="140" width="535" height="150" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="76" y="184" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#1D705A">输入：今天有多久</text>
+<text x="76" y="226" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">10分钟 / 30分钟 / 60分钟，都可调整。</text>
+<text x="76" y="262" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">先保留重点复习，再安排适量新学。</text>
+<text x="641" y="184" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#1D705A">主线：严明讲义</text>
+<text x="641" y="226" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">重点清单决定先后；原讲义提供正文。</text>
+<text x="641" y="262" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">其他教材补解释，真题检查能否应用。</text>
+<text x="50" y="341" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#193C35">每天的四项内容</text>
+<rect x="50" y="372" width="245" height="175" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="72" y="417" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">01 复习旧重点</text>
+<text x="72" y="466" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">先闭卷抽查</text>
+<text x="72" y="502" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">到期卡与原错点</text>
+<rect x="335" y="372" width="245" height="175" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="357" y="417" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">02 学习新内容</text>
+<text x="357" y="466" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">选一个小主题</text>
+<text x="357" y="502" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">理解后再背诵</text>
+<rect x="620" y="372" width="245" height="175" rx="18" fill="#E5F1E9" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="642" y="417" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">03 今日必背</text>
+<text x="642" y="466" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">给完整背诵稿</text>
+<text x="642" y="502" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">提纲、条件和出处</text>
+<rect x="905" y="372" width="245" height="175" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="927" y="417" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">04 自测与应用</text>
+<text x="927" y="466" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">根据今日背诵出题</text>
+<text x="927" y="502" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">先答，再看答案</text>
+<line x1="305" y1="458" x2="328" y2="458" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-12)"/>
+<line x1="590" y1="458" x2="613" y2="458" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-12)"/>
+<line x1="875" y1="458" x2="898" y2="458" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-12)"/>
+<rect x="50" y="590" width="1100" height="174" rx="16" fill="#E5F1E9"/>
+<text x="77" y="631" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="28" font-weight="700" text-anchor="start" fill="#1D705A">一张背诵卡，不只是“今天背这个标题”</text>
+<text x="77" y="685" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#193C35">完整背诵稿</text>
+<text x="77" y="727" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">可直接读、背和复述</text>
+<text x="433" y="685" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#193C35">记忆骨架与核心点</text>
+<text x="433" y="727" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">核心、补充、精确项分清</text>
+<text x="805" y="685" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#193C35">闭卷抽查与出处</text>
+<text x="805" y="727" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">保留分册、页码和版本</text>
+<text x="600" y="824" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle" fill="#1D705A">今日背诵 → 自测作答 → 五态分析 → 日期MD记录 → 跨日复背</text>
+<text x="600" y="874" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle" fill="#546B63">“背过”记录为学习完成；后续日期独立抽查通过，再累计巩固。</text>
+<text x="50" y="947" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">V1.2 · 每日学习与自测 · 首批8张讲义卡，支持继续扩充</text>
+</svg>

@@ -1,0 +1,941 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "guide-07bef67b1548",
+      "title": "国际税法学（廖益新2008版）—真题重点批注版",
+      "role": "guide",
+      "derived_from": "original-textbook",
+      "path": "library/sources/重点/教材重点标注/国际税法学（廖益新2008版）—真题重点批注版.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "3a84b5477be7957701133abcfad95a73baaeb1649f692398055033c72cd13865"
+    },
+    {
+      "id": "guide-545cc8845635",
+      "title": "国际税收基础（第五版中英双语）—真题重点批注版",
+      "role": "guide",
+      "derived_from": "original-textbook",
+      "path": "library/sources/重点/教材重点标注/国际税收基础（第五版中英双语）—真题重点批注版.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "2414e21f0f40634efc517ca9d1096400b77e7ecf8373880d47605e8cf8008966"
+    },
+    {
+      "id": "guide-99019f58f647",
+      "title": "2023—2026年厦大COTP教材重点与复习清单",
+      "role": "guide",
+      "path": "library/sources/重点/2023—2026年厦大COTP教材重点与复习清单.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "997d12df271c7778205c648d016b43a718cbbc7be37b5b1407c120938ca6e53f"
+    },
+    {
+      "id": "guide-9da072690eec",
+      "title": "严明法学讲义—真题重点批注版",
+      "role": "guide",
+      "derived_from": "lecture-yanming-2026",
+      "path": "library/sources/重点/教材重点标注/严明法学讲义—真题重点批注版.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "9524b6a730521580fb1310e2717ac99465a297ba6506f710f3e098ece2f56f91"
+    },
+    {
+      "id": "guide-ba9922b57263",
+      "title": "税法原理（第十一版）—真题重点批注版",
+      "role": "guide",
+      "derived_from": "original-textbook",
+      "path": "library/sources/重点/教材重点标注/税法原理（第十一版）—真题重点批注版.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "56704b78f2e0c2e1dcb462eaf67e28a2ee03ade1698b8effd36c54a493ea306d"
+    },
+    {
+      "id": "guide-da37484cb7dc",
+      "title": "国际税法学（刘剑文第四版）—真题重点批注版",
+      "role": "guide",
+      "derived_from": "original-textbook",
+      "path": "library/sources/重点/教材重点标注/国际税法学（刘剑文第四版）—真题重点批注版.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "4ef62cb755d434e5829448272bb0baa32e971d752545afe8a4094301dc5e6fca"
+    },
+    {
+      "id": "guide-e16437e1dcf7",
+      "title": "严明法学讲义—2023—2026真题重点清单",
+      "role": "guide",
+      "path": "library/sources/重点/严明法学讲义—2023—2026真题重点清单.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "faa2e9f4da4eb27748ab590e5aa5245d76eac1e0b5cf9894c17010d421a3fec4"
+    },
+    {
+      "id": "international-tax-liao-2008",
+      "title": "国际税法学（廖益新，2008）",
+      "role": "textbook",
+      "path": "library/sources/教材/国际税法学_12077563(1).md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "aab53c4bcc1256af944dd2025b54a46234ef542cbe9ec32ebc85d244a014aad3"
+    },
+    {
+      "id": "international-tax-liu-2020",
+      "title": "国际税法学（刘剑文，第四版，2020）",
+      "role": "textbook",
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "f364a6d31be845aa699eef0c245a9a945aa5e09c5247c1c2fda97d033aeda7d3"
+    },
+    {
+      "id": "international-tax-primer-5",
+      "title": "国际税收基础（第五版·中英双语，2024）",
+      "role": "textbook",
+      "path": "library/sources/教材/15539476.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "f3eeadcafb11d3a79dfe00aef8e756ad678663f44a8dbf7236ac18b64155d43d"
+    },
+    {
+      "id": "lecture-yanming-2026",
+      "title": "严明法学讲义",
+      "role": "lecture",
+      "path": "library/sources/教材/严明法学讲义.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "316499d52ecf3a9b3cd7112e2b421315d550a272c98a02102495124ee3981b16"
+    },
+    {
+      "id": "source-2f8e836b80699bb7",
+      "title": "国际税法学中英文对照要点（2026年COTP英语必背）",
+      "role": "bilingual_notes",
+      "path": "library/sources/教材/国际税法学中英文对照要点（2026年COTP英语必背）.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "54629b7ec3f8f6e8d2977fe8b6ac5d4ff9ac18e87c163330294c680b15abbdf5"
+    },
+    {
+      "id": "source-7f698c7cb5170e4d",
+      "title": "教材跳页使用说明",
+      "role": "usage_note",
+      "path": "library/sources/其他/教材跳页使用说明.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "4f38d435f297bb33312e21ea63ff66238ea042e49ceca936271fb59749d3c438"
+    },
+    {
+      "id": "source-e4fd7c381fb0c128",
+      "title": "中国税法学中英文对照要点（2026年COTP英语必背）",
+      "role": "bilingual_notes",
+      "path": "library/sources/教材/中国税法学中英文对照要点（2026年COTP英语必背）.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "7f516a37c90779574f19bf2b1c590a93e222ec3920ba3a37d9d5978ca9fa956c"
+    },
+    {
+      "id": "tax-principles-11",
+      "title": "税法原理（张守文，第十一版，2024）",
+      "role": "textbook",
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "c1a037dde33746e4d418555b012c55c75c4be9ca6a955e77a855ed43e2176405"
+    },
+    {
+      "id": "xmu-2023-answers",
+      "title": "2023年厦大法学考研初试答案",
+      "role": "answers",
+      "year": 2023,
+      "path": "library/sources/真题和答案/2023年厦大法学考研初试答案.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "840ef2e048483db5d43d33b5464c23924b5a90d451adf20e9f92f9c68bd3b968"
+    },
+    {
+      "id": "xmu-2023-exam",
+      "title": "2023年厦大法学考研初试真题",
+      "role": "exam",
+      "year": 2023,
+      "path": "library/sources/真题和答案/2023年厦大法学考研初试真题.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "b7a93dc7584be436e47bce82c40013e638ac1a65c831b89dd1b2db45c72cc666"
+    },
+    {
+      "id": "xmu-2024-answers",
+      "title": "2024年厦大法学考研初试答案",
+      "role": "answers",
+      "year": 2024,
+      "path": "library/sources/真题和答案/2024年厦大法学考研初试答案.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "1c711b664d0c47ac6ab20571136428b594390f60af5b558ea4543742111a517a"
+    },
+    {
+      "id": "xmu-2024-exam",
+      "title": "2024年厦大法学考研初试真题",
+      "role": "exam",
+      "year": 2024,
+      "path": "library/sources/真题和答案/2024年厦大法学考研初试真题.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "3b461474411128c630970432c315663a0afaa998cb5d37d50f525244f0740607"
+    },
+    {
+      "id": "xmu-2025-exam",
+      "title": "2025年厦大法学考研初试真题",
+      "role": "exam",
+      "year": 2025,
+      "path": "library/sources/真题和答案/2025年厦大法学考研初试真题.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "09a38d72bcd297a592b71df018a234ea4ab98bc47404d4227414a65a0300b4c7"
+    },
+    {
+      "id": "xmu-2026-exam",
+      "title": "2026年厦大法学考研初试真题",
+      "role": "exam",
+      "year": 2026,
+      "path": "library/sources/真题和答案/2026年厦大法学考研初试真题.md",
+      "verification": "source_text_not_fully_proofread",
+      "sha256": "f785d60124afa8c9057a78601399247901fa156c4f0cd84c2d7cf0384d518172"
+    }
+  ],
+  "files": [
+    {
+      "path": "library/sources/其他/教材跳页使用说明.md",
+      "sha256": "4f38d435f297bb33312e21ea63ff66238ea042e49ceca936271fb59749d3c438"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2023年原始截图.png",
+      "sha256": "b7f3eff14a474b5d9bfafbfc37781a30c628c1276b70ef85bf13fdda056783bc"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年原始截图.png",
+      "sha256": "85149adf9fdc57cfbf4860e5d2e9f79c920cc097c4e38f1f9b39cc091835e85e"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年简答题完整截图-20261110.png",
+      "sha256": "7c83d41f1b8f07de7b31b5e408f52d301f52497789fb123173b1ec07a70dc6b0"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年补充截图1.png",
+      "sha256": "1b7f340a05c86f1b7ffc71676fd3cbb3f834eedca20bdb16e16b703c8fe2cd51"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年补充截图2.png",
+      "sha256": "9bad5936fe10297aa27561fffca366bfa6dc5b552cdeb0f77722a744bbfbccf4"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年补充截图3.png",
+      "sha256": "2e966e592661328bb5589367a04a909db2beedee6d836ab8ac304dd6fa0e3f00"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2026年原始截图.png",
+      "sha256": "aa114281d7793a5233dd0edd4f25274438edab69fd1162a2add3494ceca57aaf"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2026年补充截图1.png",
+      "sha256": "cd054b4aac8917624b6c80ef0df1e3cb3648943ab1b8bbc47eb12626a91fd3e0"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2026年补充截图2.png",
+      "sha256": "ca055d058bbdc45a6ee75d219de05a3a64061caa0e04011962af6d001ed99d59"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2026年补充截图3.png",
+      "sha256": "903a4767c9009a4653fc18ba7fdbb97c12b394ad4db98f548411a67e056bfd38"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2026年补充截图4.png",
+      "sha256": "138ccbc348294b290f8115d7446f60bf55d51fccc8caae3a2196458875e5e555"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2026年补充截图5.png",
+      "sha256": "d77167a26d8c9e63fd3b2050ece3e9def3bc9cdf61b1c54bc7af9775b2308d00"
+    },
+    {
+      "path": "library/sources/其他/真题来源原件/厦大COTP项目初试历年真题2023-2026小红书版.pdf",
+      "sha256": "bf3c2f64b612aed2ad08e94867aee3d82b93452a165ffd504e5f47ca474d38a0"
+    },
+    {
+      "path": "library/sources/教材/15539476.md",
+      "sha256": "f3eeadcafb11d3a79dfe00aef8e756ad678663f44a8dbf7236ac18b64155d43d"
+    },
+    {
+      "path": "library/sources/教材/15539476_assets/page-625-block-2.png",
+      "sha256": "a544f4610309637cb4bebc0d0b32a972f76b80d7d132994bd45275ca0af65552"
+    },
+    {
+      "path": "library/sources/教材/15539476_assets/page-625-block-5.png",
+      "sha256": "57de88f268d52dec55deaac58d6cd38df7e3e53367edb84628a5aafa61fe0e09"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义.md",
+      "sha256": "316499d52ecf3a9b3cd7112e2b421315d550a272c98a02102495124ee3981b16"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-1-block-1.png",
+      "sha256": "8f0b35de9a90c3bbdb1b70d16ac8486b57b195b4b5384199d8152a16c9942fe2"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-17-block-7.png",
+      "sha256": "ed04181f83384a01490aac59a10954ec890701e4cf9fbee32a86f562c6b0d2ee"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-31-block-6.png",
+      "sha256": "1ed018955e11a078b86894da01294c421addfba530460bec36c4b211d3b8b3d2"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-39-block-7.png",
+      "sha256": "15fd80187357bcd4ad1d908500526e54f65f6e23a6597333ca771196375eeba3"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-4-block-8.png",
+      "sha256": "6ee9f8c1227a3f13bfb6cb70c0480e743e9c59e2c9be50c2fa746bf582f4760c"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-42-block-1.png",
+      "sha256": "9e6afba50f195ae13936d192526c05a7f71cc1733ea6b9029a9d94f82cd5abeb"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-45-block-10.png",
+      "sha256": "c9bfb013e9a8b95d56de51271d7c9e087f61274b74af0bb89641269814a0937b"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-45-block-9.png",
+      "sha256": "2216fe895b27cff35900e9625b593e81d79a5e5e56bfb37025c5cd823f67a07c"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-5-block-1.png",
+      "sha256": "109e548b0f59e3879c1007b5de0e7a670cd24003c83089be2b88a16220c9224c"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-51-block-10.png",
+      "sha256": "aac4f9f4da01dce99920b2a2e4f47e03323c9466ac8457cced1fb4346530f0db"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-53-block-8.png",
+      "sha256": "ed042b6030305f07eeb68fbd9aae8996f67a1dae0e173c37b05b701463fee576"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-54-block-12.png",
+      "sha256": "ed8b7c5dbdb46cef7a3923e50c9e3ca9a2e28ce40a7b364bd438ca41751a80e7"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-54-block-13.png",
+      "sha256": "8e3ad34df914e6fb549a06f5f50eef252ace53520fe9cfacad0ef467ca01ceb6"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-54-block-9.png",
+      "sha256": "3d5ddd207d7873124ffa4d1f55e62c6ddef2dce5df3d779c2dd4d82e40879de7"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-57-block-8.png",
+      "sha256": "81f581d9b2481f42eb3c145a73395a775fe890018c0edccd2c43c9fa1d14d706"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-60-block-6.png",
+      "sha256": "9d58f07e8fba40c1859adacfe79b99f82abb0fdc21a72a99ffc1a5ba1621b667"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-65-block-1.png",
+      "sha256": "b0dcfe6704488244c222d80c8a774954baabc3de8530d88349c3ccda355d0e6a"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-65-block-11.png",
+      "sha256": "c80724889e6e3e202ac04cc0753643d9795a7369d32049187773613a5482d990"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-65-block-13.png",
+      "sha256": "f21ab6dc55801f339e46195b663a286dbaaf2ec1897903826655d575ce4b7672"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-71-block-7.png",
+      "sha256": "77f1b1901f6f204f781ba94a04c3c198458fbb5023abd9dddd15dad5088545b8"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-75-block-5.png",
+      "sha256": "207dccf265394b626bfff64b2a5b9d900e0854f77d85f9ae36f0cb13d90d49a5"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-76-block-10.png",
+      "sha256": "5e1cc04d1e9c72a2dc54203bdee6081700036c7657bc156dedb80f959d94b1a9"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-79-block-10.png",
+      "sha256": "5287aca77dbf63cc60b462f04bf98dc9a10a1c42bbf03584da7a80e9d1e98f5a"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-79-block-6.png",
+      "sha256": "30935d81036bea9ef2f1385467b7e65beb45ee434931c380c095e95ad72dbba3"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-79-block-8.png",
+      "sha256": "7588124a6282abbeec49bfb2d4932a79d8d06ed19e6a180419a48443ad6e761d"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-79-block-9.png",
+      "sha256": "9e3f8b3b04cd67eebfe28029113341d5ef85954d4c96c91f0a8083af7008f6f7"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-8-block-10.png",
+      "sha256": "816146f2b7c4f7faf151f540d214cbbd3bb0d3362ee59130fde02db9dae6f430"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-8-block-11.png",
+      "sha256": "338550e27e2c6080f3e83e77bf1bac38bacb3a1835c8008dd200f611eedd5125"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-80-block-9.png",
+      "sha256": "73f71648de13266cfa6d093e3311500e77cd17bea6367b2ed7e35cbed863d486"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-82-block-7.png",
+      "sha256": "27f3370299eadec07ebac93c9768a3b1a766f444bd827990bddd2be201948b12"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-85-block-10.png",
+      "sha256": "69e376cdd83b7208fad1c827cf35d76011417464c0cd09734ee2ae037bf4cce2"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-85-block-7.png",
+      "sha256": "df096cec463b133109df6c07ad290674cf4d9bd8183c19b4e22b3bc11de06754"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-01-page-85-block-9.png",
+      "sha256": "90a38b83ace196f3c0df8d666f26b6d5208c52d6ff370f43ce4bb964cb38a5ed"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-10-block-11.png",
+      "sha256": "6b793af66ec0e897df90c45b129f4efd7ce160b582547cc230cfe324fd7c9f46"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-10-block-12.png",
+      "sha256": "dd64d82234ccacd88db4b4eb920cbf2dbe6d53893e182caa5ab58e250f28933e"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-10-block-13.png",
+      "sha256": "33a28c39664e178a463afd7c843066ff9c8898a813e104587aab907b92155e46"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-19-block-12.png",
+      "sha256": "8696f9a5c394a964a9b1bc7d29e753c849eb448578c53e54270f124705c7d1aa"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-2-block-11.png",
+      "sha256": "486fcba8d4fb9c35d211f5f1454916ec097c893c9a8847710d5f8caec7558bff"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-2-block-12.png",
+      "sha256": "a6166783e4fe592eec6069b9f227681425b965b6797c527646ac3328c5782991"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-2-block-9.png",
+      "sha256": "3f4ffc94ebe62968abc942c132794d29d2fae2bdee42d76c18b5b8e278f3a1ad"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-21-block-10.png",
+      "sha256": "05c795141b2ce8c8df5a60c7dc5c544c1848ee96f9f7587d134864f5922420b6"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-21-block-7.png",
+      "sha256": "cbe8536ebadd597a6cfa00d1d390bb747758bc74d232ed6437ce4f8aadc2dc3f"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-21-block-9.png",
+      "sha256": "8a2ab03edb26ebdf05911add150a3c0fe131ab9faf1b1ce83a156a294a3b0d25"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-28-block-13.png",
+      "sha256": "d5aacaea4bdae95ab0194648a9c9d900f0960ccb2741142d2881872d1e3f8060"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-30-block-12.png",
+      "sha256": "37a0283a54415c966d436b7a1b41075897ec7aebf249120d681b7c63a2b551e0"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-30-block-9.png",
+      "sha256": "187adc23ce621be6dae3e882237e8f065912577a00bd7dd6cd0494f17e4bef0b"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-31-block-12.png",
+      "sha256": "6e3107ca3427cc54f51e6c631dc79d35ab3cccff7e3813ce602ec26d376c5fc9"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-36-block-1.png",
+      "sha256": "58d24b118e4887c37a22fa35ba7b427a1dcf795bf7193d4ba81a18212cd27008"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-41-block-10.png",
+      "sha256": "f0f8998b6819799d0468a5b0c271b181778f127ade18db510454f4d557427b60"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-41-block-12.png",
+      "sha256": "82b631083557a9aaeeac60a19dc4f4acb1435a3bc586ae67fd7eb0bb87c4dac9"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-46-block-8.png",
+      "sha256": "be80b832835966250dfb73d774e48622f24690bf5d5fed5c4dac6b97375736cb"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-47-block-1.png",
+      "sha256": "8324a0a52e7e99e3f5cc292a5ea56e516516128604209d9f0c631584eb091e84"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-47-block-10.png",
+      "sha256": "28188887d7b42ba0f205472b793b5753aa547c58061484597c7e7ee675571055"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-47-block-9.png",
+      "sha256": "565c015a97f36e6c5029e5f1369a94e63a8534a9c3731ec9ae32ebd7176a4e48"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-53-block-11.png",
+      "sha256": "e43d1d58e89cc0214244f7595f41962bdfd607ee263f32db4f4b9dea7d680918"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-53-block-9.png",
+      "sha256": "ed6c2129d5414664bbfb1df5f6bba14b24e54a545bb54308b45ef865af692c75"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-63-block-11.png",
+      "sha256": "baad6ba363e18a21a4bce4f441c03b41062632e00e2b653df12b7f255272faaf"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-68-block-1.png",
+      "sha256": "a2692180be7e8703827fdc94db0f23aef0b775d386cb80f215b5ab5b6d689bb4"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-71-block-1.png",
+      "sha256": "b910e32d391bbcc5bc94f91c776525f37579e5638901f64fed71b0771fa42982"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-79-block-7.png",
+      "sha256": "438de72ed55b68e364336ad5120e18242cc3575e86a260197896c2b98175baf4"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-02-page-95-block-1.png",
+      "sha256": "d4739729cbf07534a4edfc67fdb0083473eea7d41fc8800e8294b8cab1eef307"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-1-block-1.png",
+      "sha256": "2c1be6abb9200544a1cea4f857a8bc11f6261c9dc1df4099bf9da9349e742de5"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-10-block-10.png",
+      "sha256": "462bf8cf641f48e48fa30849d68dd1392f6a61aab7385e13f126584299545aae"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-23-block-11.png",
+      "sha256": "9014296095a55c817210f89af7a4bea00b3063fdcb8a9f8c55005a93fe2fee80"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-23-block-12.png",
+      "sha256": "25b818a779b2e3ffab61beeb659e6c1a64f6aa7ad725c411694a46e90fa756c1"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-28-block-1.png",
+      "sha256": "b6834268c67da3175742503ad7b1d2d13032acb07f032caab28f3a0558c81864"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-28-block-10.png",
+      "sha256": "f25eb9d9ffa00d3386edda66c30b360a462a2c7a825da267f5cec9ad94aa94e4"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-33-block-12.png",
+      "sha256": "f9a99f265ca05e0e167ef0e4146a4ec1b75293affbb1ebce05cf85b3964027d3"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-33-block-13.png",
+      "sha256": "9f14546a475688fe7a643299cecc278b2e2709e9cf8f7377c2e9c6c4f97f0f1f"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-35-block-10.png",
+      "sha256": "2d2d021989cef783e8046b29be420115c67b57e6fabbf5f8d894b62d252a70ab"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-35-block-11.png",
+      "sha256": "4a36060f4debf3baed7fbfe922b5681c0e2383887e927f4dbc5cf3dff8cc417a"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-35-block-8.png",
+      "sha256": "352a403d7bdec8a1da9e950a11de36b396edbc4e7f3948dd19575dd5565386f8"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-35-block-9.png",
+      "sha256": "eb96b38b00f27907183440f9d06716a6caf95831e79f773473e481a0de1f7c6b"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-39-block-8.png",
+      "sha256": "a89281541bd8d592dad09b68130bb834aae59181ebb1eeb04d8c5e104932f6aa"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-4-block-12.png",
+      "sha256": "cfa348ab589b4117ead5dea0d1d628956ac71b568677b55e332ff229524173e1"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-4-block-13.png",
+      "sha256": "251d30c5a8eaa25d212eb02b7124039e0fe56c65b5c102de491677ff188fce97"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-40-block-1.png",
+      "sha256": "9d8227f12346e4f52500b2f5f52ba4206f8f131028a1c96d8248dec607f27f14"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-41-block-8.png",
+      "sha256": "773f22c5b5100a7e958319a7d70fe5e946fa11cb101bd79bfc8c930b089d5f49"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-45-block-6.png",
+      "sha256": "3ca6260f27701af81124b60f4c0b1046c4fe6c19f9150c6a287f44fe535cfb9e"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-46-block-10.png",
+      "sha256": "95b05eda78945608e899059d35d7a630f8c878fca36a65d78fe5574d255c7ba7"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-46-block-9.png",
+      "sha256": "cf90264e5d58802e68abc0df613b2f164e5b6669ab67def46e5e8d92830a06ad"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-5-block-1.png",
+      "sha256": "5395cee5ebe81917d6db0422d555cee273e061e897278b16c6ee08d685439593"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-51-block-1.png",
+      "sha256": "14c99d4d13ac00c7110b6a8c381019f7f87b688e2d24bc046f1f3689541f0e3c"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-53-block-1.png",
+      "sha256": "10e7de42c73080b76d3f069eff5b9f832112f5482eaf61513efda3d8e05b3e6d"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-6-block-10.png",
+      "sha256": "52f359d3236a6c136fddeb597394e419ff41d8e62da464964262c29ef2a2803b"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-6-block-11.png",
+      "sha256": "91365e156398f6d6d8a0f09231f2e9398994669e2b0045f9aeb39d71c2db7e60"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-61-block-7.png",
+      "sha256": "b8b8400a6973e69694608a4a84460e6373240b8462f48090d405543fb8b4bb4e"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-03-page-8-block-12.png",
+      "sha256": "13e18de9cb9d425bc03fbf6f87a33e1fbe860ab8225094470978af7bd4828270"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-04-page-1-block-1.png",
+      "sha256": "fbd141daa32a029946a2d98fee8b2a1e3c8dbb114f2e0041bfc1b34948a37329"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-04-page-15-block-9.png",
+      "sha256": "1ce64399635b5fdfbbb0099fbcee33b3eba71cffc96a368cd8977438c68467f7"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-04-page-29-block-7.png",
+      "sha256": "6161f31bdaa8ececa49a58be5ddea45f71979d6759b7ba2a1b308564b5fedb52"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-04-page-62-block-5.png",
+      "sha256": "7bd4712cd979310fc242a49a39fdd7101909eddd969fa54907e5984aa541d818"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-1-block-9.png",
+      "sha256": "26d1ea247fd34d0b95df8becb60db2b4c46e5e103a557076825de49921985dfe"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-35-block-8.png",
+      "sha256": "9f7b3d005272ea004223c540ea7d6abfa4fdc50762f5055e761e2c1b8ad4794c"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-4-block-7.png",
+      "sha256": "f80afce663bc427c54b6703a589efadf94e47ded4eb5d7c4df2d07f2fd04e8b2"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-41-block-11.png",
+      "sha256": "dfd2192cdf32facf357073442e20f9aeaf840e996bb75d1a30cc6888ee0b60b2"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-42-block-3.png",
+      "sha256": "1fdce6f4499e02d60292ae4370f23f6a4101110a09f4d9e9d31bfca448266b1e"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-49-block-5.png",
+      "sha256": "3326e026b822cccd4f705b451da7f392cd67727d9624c64629e6020b6bf7ffcc"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-6-block-5.png",
+      "sha256": "137925c1233f24cb8ac1d5600c5676728f3395f6b3e911e28e5abeea9b9eabcb"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-7-block-5.png",
+      "sha256": "62a5e6f47186247a27f2c06dfd4d7d9ea6545acacc1b2478b9734121517cbb2b"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-7-block-7.png",
+      "sha256": "9c1211330838ccaa9a07399690f5fe42601ad7861cf72f55b7474aa0ac160bea"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-82-block-7.png",
+      "sha256": "877cbcd6add0f371cc67cd2361e4f1d1653e4c1eaa335126c77f6c4a273b8dda"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-87-block-13.png",
+      "sha256": "2af5d70fb6a74ccbd9d1fa0e80ccf37fa262fc748b617e89eb21cd4109507263"
+    },
+    {
+      "path": "library/sources/教材/严明法学讲义_assets/part-05-page-92-block-8.png",
+      "sha256": "d3bda104aaf50b6b98751be19d69ff6a77a13092791959b7af342fe4df30f0ec"
+    },
+    {
+      "path": "library/sources/教材/中国税法学中英文对照要点（2026年COTP英语必背）.md",
+      "sha256": "7f516a37c90779574f19bf2b1c590a93e222ec3920ba3a37d9d5978ca9fa956c"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363.md",
+      "sha256": "f364a6d31be845aa699eef0c245a9a945aa5e09c5247c1c2fda97d033aeda7d3"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-144-block-1.png",
+      "sha256": "7a2a4a8e5d6da0456c0b47252d320af8b3c44d4bbd23551d0a2c1694a4df98a3"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-144-block-4.png",
+      "sha256": "3f3ec97c191fe89b4aa56b2ac13bc49f4bfdffae4eb7beafb023ec59305ca097"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-151-block-7.png",
+      "sha256": "8710bfe1bf2a1f9b6f7e8584bb2b880118335b5ca4f55671b952dbeca81accae"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-165-block-10.png",
+      "sha256": "3b017c042ecdc6747abe83e68efe44aa81a7b8fcd00b9269be283a3aa52e6886"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-184-block-1.png",
+      "sha256": "6acc3d0f3818ffea2265af076f0c52de24397b5a8e00545432ce7f6384e2ae45"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-230-block-6.png",
+      "sha256": "4f7fa565d9e587f1d5cc7429bda197f8065e86e45432b14ae0221a4dbdd17ffe"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-231-block-4.png",
+      "sha256": "5d9f7b778bc617948371fc5a7552d13ec73e1ee5d28f7b578354971f892ad7b5"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-244-block-1.png",
+      "sha256": "933f04495437dbc0c4993159343feeeb4389b5826a8b11c68213d74a7f234b67"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-283-block-6.png",
+      "sha256": "52e48b084e1fa24b03257e9d21a5c3ebae5154c75d89dba8c866a31d28850336"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-301-block-7.png",
+      "sha256": "91db2b43883ec186187779998de98ebbae1d45de713810edb1a97c1be7d9ee62"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-302-block-4.png",
+      "sha256": "620483b2a0802b401c8c8647f64127bed2a0114838289de5db05c04eb68d1669"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-305-block-4.png",
+      "sha256": "38395559be62befd443517cd53751a148b633b5bd283077e0b1435ecea2605ee"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-307-block-4.png",
+      "sha256": "60ed3fb2d2daf31c1b8b38a7bd26df2cd454477cec548a369272b7d93153ab71"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-308-block-3.png",
+      "sha256": "d52085df8c4c5061f756e8ddb546e66aabb42cf4a8e369c8dd65bc8ef781745b"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-321-block-5.png",
+      "sha256": "1b8e8dc10194b0e931d473161da4f5d9f144c9af2d4ea527e9e14f862b5a1640"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-342-block-1.png",
+      "sha256": "e3f5bca11ae426b71c67c8f6c8d1c452e823d73ac34547997fa51892f9984892"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-355-block-1.png",
+      "sha256": "258fd306c0d4114229b6acdd3114d340b9982f1ae040ab0486057906b477586d"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-424-block-3.png",
+      "sha256": "a85487d2665f7b8af3fd6d5702fd978ef04d7ad4f48c742da5cf68cd60da7602"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-426-block-4.png",
+      "sha256": "26fb580db61901ec8651677f1a222af6b2bfbb7b9d91c6ced7b705a69477ac12"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-492-block-1.png",
+      "sha256": "26f2d149d7af54b1fb982b4379daa4f3bc1adb95a8e2f306bf8ca473fcb802dd"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-492-block-5.png",
+      "sha256": "085f3b028bba9e810c384086cffcf5a1e7f2db04cab01fefc11b20503267713c"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-492-block-9.png",
+      "sha256": "0e5805c53d78ff0b4f3f20f26cadaa2df64f8298affc77e450620dd5c4089d13"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-493-block-11.png",
+      "sha256": "f00d9f9e431492d852e4ba7304aea4e374b65db8a8ecd99cc85d215c31f5b3e1"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-493-block-13.png",
+      "sha256": "97ab8da6882b87310b10573bf5cbf3922a15ac1a07bce23096216c55f50d58f3"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-83-block-3.png",
+      "sha256": "1500db1ae47a9c924f55c2aeb3541edfc10c8cdfec88d6d8737aa6a5589d1a1b"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-83-block-4.png",
+      "sha256": "10debfd6f095aa76088c2ec7d3dffe6fd23584d2b34aed5d5f6860449968a979"
+    },
+    {
+      "path": "library/sources/教材/国际税法学_12077563(1).md",
+      "sha256": "aab53c4bcc1256af944dd2025b54a46234ef542cbe9ec32ebc85d244a014aad3"
+    },
+    {
+      "path": "library/sources/教材/国际税法学_12077563(1)_assets/page-2-block-12.png",
+      "sha256": "dbee48157ab0e78c70182b3e5801d3a53ebced4b9d07d0ef4a0d72421dcf26f6"
+    },
+    {
+      "path": "library/sources/教材/国际税法学_12077563(1)_assets/page-402-block-42.png",
+      "sha256": "d571e416fe7f312f67360750d2324f722e555eea3d618e08f852a72747718373"
+    },
+    {
+      "path": "library/sources/教材/国际税法学中英文对照要点（2026年COTP英语必背）.md",
+      "sha256": "54629b7ec3f8f6e8d2977fe8b6ac5d4ff9ac18e87c163330294c680b15abbdf5"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索.md",
+      "sha256": "c1a037dde33746e4d418555b012c55c75c4be9ca6a955e77a855ed43e2176405"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索_assets/page-1-block-1.png",
+      "sha256": "848efb475f2f31baedb8977805fbe77509636ad757fe44e743326e6fa6547cc6"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索_assets/page-1-block-3.png",
+      "sha256": "6848b7a8a72d76335bb294bbfdcdc5acbc1d34efe6f366974fdef0585d687797"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索_assets/page-2-block-1.png",
+      "sha256": "d7087a5bc443a86803aefb2532dd19064cf70d93e58827ffc783239cd21deacb"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索_assets/page-2-block-4.png",
+      "sha256": "5a0d0d0d62461a8417abfd7aa607c0823a33dde8d43fadb78798532a8c8d9ce1"
+    },
+    {
+      "path": "library/sources/真题和答案/2023年厦大法学考研初试真题.md",
+      "sha256": "b7a93dc7584be436e47bce82c40013e638ac1a65c831b89dd1b2db45c72cc666"
+    },
+    {
+      "path": "library/sources/真题和答案/2023年厦大法学考研初试答案.md",
+      "sha256": "840ef2e048483db5d43d33b5464c23924b5a90d451adf20e9f92f9c68bd3b968"
+    },
+    {
+      "path": "library/sources/真题和答案/2024年厦大法学考研初试真题.md",
+      "sha256": "3b461474411128c630970432c315663a0afaa998cb5d37d50f525244f0740607"
+    },
+    {
+      "path": "library/sources/真题和答案/2024年厦大法学考研初试答案.md",
+      "sha256": "1c711b664d0c47ac6ab20571136428b594390f60af5b558ea4543742111a517a"
+    },
+    {
+      "path": "library/sources/真题和答案/2025年厦大法学考研初试真题.md",
+      "sha256": "09a38d72bcd297a592b71df018a234ea4ab98bc47404d4227414a65a0300b4c7"
+    },
+    {
+      "path": "library/sources/真题和答案/2026年厦大法学考研初试真题.md",
+      "sha256": "f785d60124afa8c9057a78601399247901fa156c4f0cd84c2d7cf0384d518172"
+    },
+    {
+      "path": "library/sources/重点/2023—2026年厦大COTP教材重点与复习清单.md",
+      "sha256": "997d12df271c7778205c648d016b43a718cbbc7be37b5b1407c120938ca6e53f"
+    },
+    {
+      "path": "library/sources/重点/严明法学讲义—2023—2026真题重点清单.md",
+      "sha256": "faa2e9f4da4eb27748ab590e5aa5245d76eac1e0b5cf9894c17010d421a3fec4"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/严明法学讲义—真题重点批注版.md",
+      "sha256": "9524b6a730521580fb1310e2717ac99465a297ba6506f710f3e098ece2f56f91"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/国际税收基础（第五版中英双语）—真题重点批注版.md",
+      "sha256": "2414e21f0f40634efc517ca9d1096400b77e7ecf8373880d47605e8cf8008966"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/国际税法学（刘剑文第四版）—真题重点批注版.md",
+      "sha256": "4ef62cb755d434e5829448272bb0baa32e971d752545afe8a4094301dc5e6fca"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/国际税法学（廖益新2008版）—真题重点批注版.md",
+      "sha256": "3a84b5477be7957701133abcfad95a73baaeb1649f692398055033c72cd13865"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/税法原理（第十一版）—真题重点批注版.md",
+      "sha256": "56704b78f2e0c2e1dcb462eaf67e28a2ee03ade1698b8effd36c54a493ea306d"
+    }
+  ],
+  "warnings": [
+    {
+      "file": "教材/严明法学讲义.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "教材/严明法学讲义.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "教材/严明法学讲义.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "教材/严明法学讲义.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "教材/严明法学讲义.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "教材/严明法学讲义.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "重点/教材重点标注/税法原理（第十一版）—真题重点批注版.md",
+      "issue": "pdf_link_redirected_to_markdown"
+    },
+    {
+      "file": "重点/教材重点标注/国际税法学（刘剑文第四版）—真题重点批注版.md",
+      "issue": "pdf_link_redirected_to_markdown"
+    },
+    {
+      "file": "重点/教材重点标注/国际税法学（廖益新2008版）—真题重点批注版.md",
+      "issue": "pdf_link_redirected_to_markdown"
+    },
+    {
+      "file": "重点/教材重点标注/国际税收基础（第五版中英双语）—真题重点批注版.md",
+      "issue": "pdf_link_redirected_to_markdown"
+    },
+    {
+      "file": "重点/教材重点标注/严明法学讲义—真题重点批注版.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "重点/教材重点标注/严明法学讲义—真题重点批注版.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "重点/教材重点标注/严明法学讲义—真题重点批注版.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "重点/教材重点标注/严明法学讲义—真题重点批注版.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "重点/教材重点标注/严明法学讲义—真题重点批注版.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    },
+    {
+      "file": "重点/教材重点标注/严明法学讲义—真题重点批注版.md",
+      "issue": "machine_specific_or_external_file_link_removed"
+    }
+  ],
+  "policy": "Source roles preserved; answer and derived-annotation text excluded from diagnostic retrieval."
+}

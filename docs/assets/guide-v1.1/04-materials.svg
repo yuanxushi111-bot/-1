@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="870" viewBox="0 0 1200 870" role="img" aria-labelledby="title-4 desc-4">
+<title id="title-4">有新资料时，再走这条路线</title><desc id="desc-4">新教材、讲义和题集，都能继续补充；转换完成后，还需要导入。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="870" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">有新资料时，再走这条路线</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">新教材、讲义和题集，都能继续补充；转换完成后，还需要导入。</text>
+<rect x="50" y="148" width="300" height="262" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="450" y="148" width="300" height="262" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="850" y="148" width="300" height="262" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="76" y="194" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1D705A">01  准备资料</text>
+<text x="76" y="242" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">Markdown / TXT</text>
+<text x="76" y="277" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">直接读取，无需OCR</text>
+<text x="76" y="331" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">PDF / 图片 / Office</text>
+<text x="76" y="366" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">先转换，保留图片附件</text>
+<line x1="366" y1="279" x2="433" y2="279" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-4)"/>
+<text x="476" y="194" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1D705A">02  转换与检查</text>
+<text x="473" y="251" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#1D705A">/mineru-documents</text>
+<text x="476" y="305" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">给出真实文件路径。</text>
+<text x="476" y="340" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">核对全文页序、图片、</text>
+<text x="476" y="375" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">表格和公式。</text>
+<line x1="766" y1="279" x2="833" y2="279" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-4)"/>
+<text x="876" y="194" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1D705A">03  预览，再导入</text>
+<text x="876" y="251" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">教材 / 讲义 → 知识库</text>
+<text x="876" y="295" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">习题 / 答案 → 规范题库</text>
+<text x="876" y="352" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">试检索一次，</text>
+<text x="876" y="386" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">确认新资料可以被引用。</text>
+<rect x="50" y="454" width="1100" height="98" rx="14" fill="#F8F0DF"/>
+<text x="75" y="492" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#7B5927">缺模型？先准备，再继续。</text>
+<text x="75" y="530" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#7B5927">包内含MinerU依赖；OCR模型需另行准备，普通转换不会自动下载或上传。</text>
+<rect x="50" y="591" width="1100" height="164" rx="16" fill="#E5F1E9"/>
+<text x="75" y="631" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">可直接复制给Agent</text>
+<text x="75" y="676" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#193C35">请把 D:\资料\新讲义.pdf 转为Markdown，检查页序和图片；</text>
+<text x="75" y="714" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#193C35">预览后作为讲义加入知识库。只用本地解析，缺模型先告诉我。</text>
+<text x="50" y="810" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#546B63">只生成Markdown ≠ 已入库；导入成功后，新资料才能用于检索、讲题和拟答。</text>
+<text x="50" y="848" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#546B63">V1.1 使用教程 · 操作示意，非真实软件截图</text>
+<text x="1150" y="848" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#546B63">04 / 04</text>
+</svg>

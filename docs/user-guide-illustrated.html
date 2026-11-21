@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>V1.1 图文使用教程</title>
+<style>
+:root{color-scheme:light;--ink:#193c35;--muted:#546b63;--paper:#f4f7f2;--line:#d8e2da;--green:#1d705a}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.8 "Microsoft YaHei","PingFang SC",sans-serif}
+main{max-width:1200px;margin:auto;padding:38px 24px 55px}header{padding:10px 26px 22px}.eyebrow{font-size:14px;letter-spacing:.12em;color:var(--green)}h1{font-size:36px;line-height:1.3;margin:10px 0 14px}header p{margin:0;color:var(--muted)}nav{display:flex;gap:12px;flex-wrap:wrap;margin:22px 0 0}a{color:var(--green)}nav a{padding:8px 16px;background:white;border:1px solid var(--line);border-radius:30px;text-decoration:none}
+section{scroll-margin-top:20px;margin:0 0 30px}figure{margin:0}figure svg{display:block;width:100%;height:auto}figcaption{padding:0 26px 15px;color:var(--muted)}.prompt{margin:0 26px;padding:16px 20px;background:white;border-left:4px solid var(--green);border-radius:0 12px 12px 0}.prompt span{font-size:14px;font-weight:700;color:var(--green)}.prompt p{margin:5px 0 0;overflow-wrap:anywhere}aside{margin:30px 26px;padding:20px 24px;background:white;border:1px solid var(--line);border-radius:16px}aside h2{margin:0 0 8px;font-size:23px}aside p{margin:7px 0}code{font-size:.93em;overflow-wrap:anywhere}footer{margin:0 26px;color:var(--muted);font-size:14px}
+@media(max-width:600px){main{padding:20px 8px}header{padding:8px 14px 18px}h1{font-size:28px}.prompt,aside,footer{margin-left:14px;margin-right:14px}figcaption{padding-left:14px;padding-right:14px}nav a{font-size:14px}}
+@media print{body{background:white}main{max-width:none;padding:0}header{padding:0 0 12px}nav{display:none}section{break-inside:avoid;margin:0 0 20px}svg{max-height:220mm}aside{break-inside:avoid}.prompt{background:white}a{text-decoration:none;color:inherit}}
+</style></head><body><main><header><div class="eyebrow">税法备考 SKILL · WINDOWS · V1.1</div><h1>从第一次启动，到每天复习</h1><p>四张操作示意图，跟着顺序使用。这里是使用指南，学习对话仍在DeepSeek Harness中进行。</p><nav aria-label="教程章节"><a href="#01-start">01 第一次启动</a><a href="#02-practice">02 日常练题</a><a href="#03-mistakes">03 错题与记录</a><a href="#04-materials">04 新资料导入</a></nav></header><section id="01-start" aria-label="第一次启动"><figure><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title-1 desc-1">
+<title id="title-1">第一次使用：完成这四步</title><desc id="desc-1">Windows私人完整包 + DeepSeek Harness；找到含 tools.cmd 的项目根目录。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="800" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">第一次使用：完成这四步</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">Windows私人完整包 + DeepSeek Harness；找到含 tools.cmd 的项目根目录。</text>
+<rect x="50" y="130" width="535" height="250" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="615" y="130" width="535" height="250" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="50" y="410" width="535" height="250" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="615" y="410" width="535" height="250" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<circle cx="95" cy="166" r="20" fill="#1D705A"/>
+<text x="95" y="174" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="white">1</text>
+<text x="129" y="175" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">解压到独立目录</text>
+<text x="85" y="219" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">D:\kaoyan-agent</text>
+<text x="105" y="260" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">检查安装.cmd</text>
+<text x="105" y="294" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">tools.cmd</text>
+<text x="105" y="328" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">library / runtime / .dsh</text>
+<circle cx="660" cy="166" r="20" fill="#1D705A"/>
+<text x="660" y="174" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="white">2</text>
+<text x="694" y="175" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">双击“检查安装.cmd”</text>
+<rect x="645" y="202" width="475" height="115" rx="12" fill="#193C35"/>
+<text x="672" y="246" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="400" text-anchor="start" fill="#F3F8F4">&quot;version&quot;: &quot;1.1.0&quot;</text>
+<text x="672" y="285" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#A8E8BD">&quot;ready&quot;: true</text>
+<text x="645" y="351" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">ready仅表示本地资料和工具检查通过</text>
+<circle cx="95" cy="446" r="20" fill="#1D705A"/>
+<text x="95" y="454" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="white">3</text>
+<text x="129" y="455" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">在Harness选择项目</text>
+<rect x="85" y="482" width="465" height="64" rx="10" fill="#E5F1E9"/>
+<text x="107" y="524" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#1D705A">工作区：D:\kaoyan-agent</text>
+<text x="85" y="588" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">选中含 tools.cmd 的那一层。</text>
+<text x="85" y="625" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">在宿主里配置自己的模型连接。</text>
+<circle cx="660" cy="446" r="20" fill="#1D705A"/>
+<text x="660" y="454" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle" fill="white">4</text>
+<text x="694" y="455" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">新会话加载Skill</text>
+<rect x="645" y="482" width="475" height="64" rx="10" fill="#E5F1E9"/>
+<text x="668" y="524" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#1D705A">/tax-exam-coach</text>
+<text x="645" y="588" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">再告诉它：今天有多久，想练什么。</text>
+<text x="645" y="625" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">一次只出一题，先让我独立回答。</text>
+<rect x="50" y="699" width="1100" height="52" rx="12" fill="#E5F1E9"/>
+<text x="74" y="733" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#1D705A">复习现有资料：不用先下载OCR模型；私人包已带工具运行环境。</text>
+<text x="50" y="778" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#546B63">V1.1 使用教程 · 操作示意，非真实软件截图</text>
+<text x="1150" y="778" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#546B63">01 / 04</text>
+</svg><figcaption>解压私人完整包，检查ready，选择整个项目，加载 /tax-exam-coach。</figcaption></figure><div class="prompt"><span>直接这样说</span><p>今天有20分钟，请先检查本地资料和到期任务，一次只出一题，先让我独立回答。</p></div></section>
+<section id="02-practice" aria-label="日常练题"><figure><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1000" viewBox="0 0 1200 1000" role="img" aria-labelledby="title-2 desc-2">
+<title id="title-2">每天练题：你先答，它再讲</title><desc id="desc-2">题目先隐藏答案；作答后，同一轮完成参考答案与分析。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="1000" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">每天练题：你先答，它再讲</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">题目先隐藏答案；作答后，同一轮完成参考答案与分析。</text>
+<rect x="50" y="135" width="470" height="525" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="550" y="135" width="600" height="525" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="78" y="181" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#193C35">你只需做两件事</text>
+<rect x="75" y="212" width="420" height="115" rx="14" fill="#E5F1E9"/>
+<text x="96" y="247" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">今天有20分钟，先练一道到期错题。</text>
+<text x="96" y="282" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">先不要展示答案。</text>
+<text x="79" y="372" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#546B63">Skill先出题，等待你回答。</text>
+<rect x="75" y="414" width="420" height="160" rx="14" fill="#E5F1E9"/>
+<text x="96" y="456" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">我的回答是：……</text>
+<text x="96" y="498" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">这里提交你的真实作答。</text>
+<text x="96" y="533" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">用过提示或看过答案，也要说明。</text>
+<text x="78" y="624" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">答后自动保存到日期Markdown</text>
+<text x="580" y="181" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="27" font-weight="700" text-anchor="start" fill="#193C35">答完后，按这个顺序看</text>
+<rect x="575" y="207" width="550" height="91" rx="12" fill="#F4F7F2"/>
+<text x="596" y="240" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">01   判定</text>
+<text x="596" y="274" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">一句话说明本次作答情况。</text>
+<rect x="575" y="314" width="550" height="91" rx="12" fill="#E5F1E9"/>
+<text x="596" y="347" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">02   完整参考答案</text>
+<text x="596" y="381" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">有题库答案就给原文；没有则依据教材拟答。</text>
+<rect x="575" y="421" width="550" height="91" rx="12" fill="#F4F7F2"/>
+<text x="596" y="454" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">03   要点对照分析</text>
+<text x="596" y="488" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">覆盖 / 部分覆盖 / 遗漏 / 错误 / 待核实</text>
+<rect x="575" y="528" width="550" height="91" rx="12" fill="#F4F7F2"/>
+<text x="596" y="561" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">04   复习安排</text>
+<text x="596" y="595" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="20" font-weight="400" text-anchor="start" fill="#546B63">说明原错点、下次日期与实际保存结果。</text>
+<rect x="50" y="708" width="350" height="167" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="74" y="751" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">题库有答案</text>
+<text x="74" y="799" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">直接展示原文与来源性质。</text>
+<text x="74" y="833" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">参考答案不自动升级为官方标准。</text>
+<rect x="425" y="708" width="350" height="167" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="449" y="751" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">题库没有答案</text>
+<text x="449" y="799" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">核对本地教材，再整理完整拟答。</text>
+<text x="449" y="833" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">标注：AI依据教材整理，非官方。</text>
+<rect x="800" y="708" width="350" height="167" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="824" y="751" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">资料证据不足</text>
+<text x="824" y="799" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">明确指出缺口，保留待核实。</text>
+<text x="824" y="833" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#546B63">不强行编答案或确定判分。</text>
+<text x="50" y="929" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#1D705A">只想要提示？明确说：先给一个小提示，暂不展示完整答案。</text>
+<text x="50" y="978" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#546B63">V1.1 使用教程 · 操作示意，非真实软件截图</text>
+<text x="1150" y="978" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#546B63">02 / 04</text>
+</svg><figcaption>提交真实作答后，依次查看判定、完整参考答案、逐点分析和复习安排。</figcaption></figure><div class="prompt"><span>直接这样说</span><p>答完后请直接给完整参考答案，再逐点分析，最后说明复测日期和实际保存位置。</p></div></section>
+<section id="03-mistakes" aria-label="错题与记录"><figure><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title-3 desc-3">
+<title id="title-3">错题自动收录，跨日再验证</title><desc id="desc-3">同题聚合保存经历；当天看答案后重答，不算跨日掌握。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="820" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">错题自动收录，跨日再验证</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">同题聚合保存经历；当天看答案后重答，不算跨日掌握。</text>
+<rect x="50" y="158" width="320" height="160" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="78" y="204" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#1D705A">待复习</text>
+<text x="78" y="252" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">重要错误、核心遗漏</text>
+<text x="78" y="287" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">或依赖提示时自动收录</text>
+<rect x="440" y="158" width="320" height="160" rx="18" fill="#E5F1E9" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="468" y="204" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#1D705A">复测中</text>
+<text x="468" y="252" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">一次跨日、无提示通过</text>
+<text x="468" y="287" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">仍需覆盖原先的错点</text>
+<rect x="830" y="158" width="320" height="160" rx="18" fill="#E5F1E9" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="858" y="204" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="30" font-weight="700" text-anchor="start" fill="#1D705A">已巩固</text>
+<text x="858" y="252" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">两个不同日期独立通过</text>
+<text x="858" y="287" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#546B63">原错点覆盖，历史继续保留</text>
+<line x1="382" y1="238" x2="428" y2="238" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-3)"/>
+<line x1="772" y1="238" x2="818" y2="238" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-3)"/>
+<path d="M 990 331 V 377 H 210 V 331" fill="none" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-3)"/>
+<text x="600" y="417" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle" fill="#1D705A">再次答错或依赖提示 → 回到待复习</text>
+<rect x="50" y="451" width="1100" height="69" rx="12" fill="#F8F0DF"/>
+<text x="74" y="494" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#7B5927">待核实</text>
+<text x="221" y="493" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#7B5927">来源冲突、题目不完整或证据不足：保留问题，不计为确认错误。</text>
+<rect x="50" y="552" width="535" height="178" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="76" y="592" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">原始学习记录</text>
+<text x="76" y="635" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#1D705A">userdata/study-records/</text>
+<text x="76" y="668" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#1D705A">YYYY-MM-DD.md</text>
+<text x="76" y="705" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">真实作答、答案与复测事件</text>
+<rect x="615" y="552" width="535" height="178" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="641" y="592" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#193C35">自动错题本</text>
+<text x="641" y="635" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#1D705A">userdata/mistake-book/</text>
+<text x="641" y="668" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#1D705A">YYYY-MM-DD.md + 错题索引.md</text>
+<text x="641" y="705" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">可从学习日志重建的错题视图</text>
+<text x="50" y="764" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">个人笔记写学习日志；不要直接改自动生成的错题页或结构化JSON。</text>
+<text x="50" y="798" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#546B63">V1.1 使用教程 · 操作示意，非真实软件截图</text>
+<text x="1150" y="798" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#546B63">03 / 04</text>
+</svg><figcaption>关键错误和提示依赖自动收录；两次不同日期独立通过、覆盖原错点后标记已巩固。</figcaption></figure><div class="prompt"><span>直接这样说</span><p>今天先练到期错题，只给题干，不展示我的旧答案和解析，答完再对照原错点分析。</p></div></section>
+<section id="04-materials" aria-label="新资料导入"><figure><svg xmlns="http://www.w3.org/2000/svg" width="1200" height="870" viewBox="0 0 1200 870" role="img" aria-labelledby="title-4 desc-4">
+<title id="title-4">有新资料时，再走这条路线</title><desc id="desc-4">新教材、讲义和题集，都能继续补充；转换完成后，还需要导入。；操作示意，不是真实软件截图。</desc>
+<defs><marker id="arrow-4" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#1D705A"/></marker></defs>
+<rect x="0" y="0" width="1200" height="870" rx="0" fill="#F4F7F2"/>
+<text x="50" y="59" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="36" font-weight="700" text-anchor="start" fill="#193C35">有新资料时，再走这条路线</text>
+<text x="50" y="101" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#546B63">新教材、讲义和题集，都能继续补充；转换完成后，还需要导入。</text>
+<rect x="50" y="148" width="300" height="262" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="450" y="148" width="300" height="262" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<rect x="850" y="148" width="300" height="262" rx="18" fill="white" stroke="#D8E2DA" stroke-width="1.5"/>
+<text x="76" y="194" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1D705A">01  准备资料</text>
+<text x="76" y="242" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">Markdown / TXT</text>
+<text x="76" y="277" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">直接读取，无需OCR</text>
+<text x="76" y="331" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">PDF / 图片 / Office</text>
+<text x="76" y="366" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">先转换，保留图片附件</text>
+<line x1="366" y1="279" x2="433" y2="279" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-4)"/>
+<text x="476" y="194" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1D705A">02  转换与检查</text>
+<text x="473" y="251" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#1D705A">/mineru-documents</text>
+<text x="476" y="305" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">给出真实文件路径。</text>
+<text x="476" y="340" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">核对全文页序、图片、</text>
+<text x="476" y="375" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="22" font-weight="400" text-anchor="start" fill="#193C35">表格和公式。</text>
+<line x1="766" y1="279" x2="833" y2="279" stroke="#1D705A" stroke-width="2.5" marker-end="url(#arrow-4)"/>
+<text x="876" y="194" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#1D705A">03  预览，再导入</text>
+<text x="876" y="251" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">教材 / 讲义 → 知识库</text>
+<text x="876" y="295" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">习题 / 答案 → 规范题库</text>
+<text x="876" y="352" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">试检索一次，</text>
+<text x="876" y="386" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#193C35">确认新资料可以被引用。</text>
+<rect x="50" y="454" width="1100" height="98" rx="14" fill="#F8F0DF"/>
+<text x="75" y="492" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="26" font-weight="700" text-anchor="start" fill="#7B5927">缺模型？先准备，再继续。</text>
+<text x="75" y="530" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#7B5927">包内含MinerU依赖；OCR模型需另行准备，普通转换不会自动下载或上传。</text>
+<rect x="50" y="591" width="1100" height="164" rx="16" fill="#E5F1E9"/>
+<text x="75" y="631" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="25" font-weight="700" text-anchor="start" fill="#1D705A">可直接复制给Agent</text>
+<text x="75" y="676" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#193C35">请把 D:\资料\新讲义.pdf 转为Markdown，检查页序和图片；</text>
+<text x="75" y="714" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#193C35">预览后作为讲义加入知识库。只用本地解析，缺模型先告诉我。</text>
+<text x="50" y="810" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="23" font-weight="400" text-anchor="start" fill="#546B63">只生成Markdown ≠ 已入库；导入成功后，新资料才能用于检索、讲题和拟答。</text>
+<text x="50" y="848" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="17" font-weight="400" text-anchor="start" fill="#546B63">V1.1 使用教程 · 操作示意，非真实软件截图</text>
+<text x="1150" y="848" font-family="Microsoft YaHei, PingFang SC, sans-serif" font-size="18" font-weight="400" text-anchor="end" fill="#546B63">04 / 04</text>
+</svg><figcaption>Markdown直接读取，其他支持格式使用MinerU转换；检查与预览之后，再导入对应资料库。</figcaption></figure><div class="prompt"><span>直接这样说</span><p>请把 D:\资料\新讲义.pdf 转为Markdown，检查页序和图片；预览后作为讲义加入知识库。只用本地解析，缺模型先告诉我。</p></div></section>
+<aside><h2>第一次遇到问题时</h2><p><strong>找不到Skill：</strong>核对工作区是不是含 <code>tools.cmd</code> 的项目根目录，再开新会话加载。</p><p><strong>缺少OCR模型：</strong>复习已有资料不受影响；转换新资料前，再按设备准备模型。不要把依赖安装等同于模型就绪。</p><p><strong>记录怎样带走：</strong>日常备份 <code>userdata</code>。自己导入过新教材时，迁移整个项目更省事。升级到新包需另行保留并导入新增教材。</p><p><strong>个人笔记：</strong>写学习日志，不直接编辑自动错题页或折叠区中的JSON。</p></aside>
+<footer>本页所有界面均为功能与操作示意，非真实Harness截图。学习记录保存在本机；使用云端学习模型时，必要题目、作答和教材片段会发送给所配置模型。模型反馈与本地参考答案不自动等于官方答案。页中目录均为示例，请替换为自己电脑上的真实位置。</footer>
+</main></body></html>

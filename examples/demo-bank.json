@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "demo-library",
+  "name": "自制软件演示题（非考试资料）",
+  "version": "1.0.0",
+  "source_type": "custom",
+  "questions": [
+    {
+      "id": "quota",
+      "subject": "演示科目",
+      "kind": "简答",
+      "stem": "阅读卡已经借了三本书，读者在另一分馆把一本书放进归还箱但尚未登记，能否立即再借一本？说明依据。",
+      "context": "此题仅验证软件流程，不属于考研真题或法律教学。",
+      "knowledge_points": ["借阅额度", "跨馆归还"],
+      "completeness": "complete",
+      "answer": {
+        "status": "self_authored_reference",
+        "text": "不能。归还登记完成后才释放额度；仅放进归还箱尚未完成归还。"
+      }
+    }
+  ]
+}

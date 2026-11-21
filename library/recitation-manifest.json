@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "current": {
+    "ym-cn-01-law": "5d7990e7b5ebcac4",
+    "ym-cn-02-substance": "54dbec9a6a5fc53d",
+    "ym-cn-03-debt": "a056dad87bbb6ae2",
+    "ym-cn-04-income-models": "6621278fa86e9af8",
+    "ym-int-01-jurisdiction": "229f47ea2ddc7470",
+    "ym-int-02-residence-source": "33a90961d293dfc7",
+    "ym-int-03-double-tax": "f21bda7056b5cf56",
+    "ym-int-04-exemption": "a69df4a1d576d698"
+  },
+  "files": [
+    {
+      "id": "ym-cn-01-law",
+      "version": "5d7990e7b5ebcac4",
+      "path": "library/recitation-cards/ym-cn-01-law/5d7990e7b5ebcac4.md",
+      "sha256": "bec110ca6aff046962e25f4308d4753bc78f0aec03d078750580a1e62f916730"
+    },
+    {
+      "id": "ym-cn-02-substance",
+      "version": "54dbec9a6a5fc53d",
+      "path": "library/recitation-cards/ym-cn-02-substance/54dbec9a6a5fc53d.md",
+      "sha256": "e06b290829f1c508b66c5acc5c211d81178b68a1c930b6c35c7c02b3e3d94bc6"
+    },
+    {
+      "id": "ym-cn-03-debt",
+      "version": "9c490210492783c1",
+      "path": "library/recitation-cards/ym-cn-03-debt/9c490210492783c1.md",
+      "sha256": "0468698c2445679db4577ce69fbef0af469ad601390236b3829fb68d96988ced"
+    },
+    {
+      "id": "ym-cn-04-income-models",
+      "version": "0f5b298b0623b344",
+      "path": "library/recitation-cards/ym-cn-04-income-models/0f5b298b0623b344.md",
+      "sha256": "92f2a47c478ff8f27c7c2c0cafa94f057aa9ed4a355c1af2a99d38dbdf1bef23"
+    },
+    {
+      "id": "ym-int-01-jurisdiction",
+      "version": "5b5048e7c9777b02",
+      "path": "library/recitation-cards/ym-int-01-jurisdiction/5b5048e7c9777b02.md",
+      "sha256": "d36cef0f638a783ee33dce187ce82b05c2d60e130ddd9741352b96dcc2507e8a"
+    },
+    {
+      "id": "ym-int-02-residence-source",
+      "version": "10cfb14eed06966f",
+      "path": "library/recitation-cards/ym-int-02-residence-source/10cfb14eed06966f.md",
+      "sha256": "bca1dc2bb12119638dd1660fbdf56fe70ff5bd1c0338881d870b72dae6c4579b"
+    },
+    {
+      "id": "ym-int-03-double-tax",
+      "version": "e17de154b6e8bda4",
+      "path": "library/recitation-cards/ym-int-03-double-tax/e17de154b6e8bda4.md",
+      "sha256": "dff099431bdd19423a641cbf74fc11654dd73d59b60a0cc9e94ae7ce9f6302dd"
+    },
+    {
+      "id": "ym-int-04-exemption",
+      "version": "4c8a286997d3b0ac",
+      "path": "library/recitation-cards/ym-int-04-exemption/4c8a286997d3b0ac.md",
+      "sha256": "7ae5bd5d352dd888fc5fa8c1e0a47521b6809fed56a2e4244be560e4d1ca9701"
+    },
+    {
+      "id": "ym-cn-03-debt",
+      "version": "a056dad87bbb6ae2",
+      "path": "library/recitation-cards/ym-cn-03-debt/a056dad87bbb6ae2.md",
+      "sha256": "e6bef9aead4ccee63fac8ffad4cd255cf3e52d44c9c599bcbd9631dc3dbafa0b"
+    },
+    {
+      "id": "ym-cn-04-income-models",
+      "version": "6621278fa86e9af8",
+      "path": "library/recitation-cards/ym-cn-04-income-models/6621278fa86e9af8.md",
+      "sha256": "1f989543c4ec3c5a6898eb6fc4867eda14d2ce3a44c9e898a0f948b674e7fd27"
+    },
+    {
+      "id": "ym-int-01-jurisdiction",
+      "version": "229f47ea2ddc7470",
+      "path": "library/recitation-cards/ym-int-01-jurisdiction/229f47ea2ddc7470.md",
+      "sha256": "843422089e1b92abc290cad9ec5267c18cac196f6cbba0b35e4a44b339f39ca1"
+    },
+    {
+      "id": "ym-int-02-residence-source",
+      "version": "33a90961d293dfc7",
+      "path": "library/recitation-cards/ym-int-02-residence-source/33a90961d293dfc7.md",
+      "sha256": "c026b7590b294a9991ec7e4eeccc660423c891ced8d8c3a1c001e06c79a6f327"
+    },
+    {
+      "id": "ym-int-03-double-tax",
+      "version": "f21bda7056b5cf56",
+      "path": "library/recitation-cards/ym-int-03-double-tax/f21bda7056b5cf56.md",
+      "sha256": "1186d8dd0d55a72df9df88a952a9cd297390b2fd67c3dd7ec70a460a36dbf196"
+    },
+    {
+      "id": "ym-int-04-exemption",
+      "version": "a69df4a1d576d698",
+      "path": "library/recitation-cards/ym-int-04-exemption/a69df4a1d576d698.md",
+      "sha256": "e8df566a555ca475b40f8841a9f04169d818449ae5d38ea298fdb82582e164dc"
+    }
+  ]
+}

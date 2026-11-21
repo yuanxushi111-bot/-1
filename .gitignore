@@ -1,0 +1,17 @@
+# This repository publishes the knowledge library and its source-linked index.
+# Learning records, local credentials, caches and bundled runtimes stay local.
+userdata/
+runtime/
+runtime-mineru/
+dist/
+.work/
+.dsh/
+config.local.json
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+indexes/*-wal
+indexes/*-shm
+*.lock

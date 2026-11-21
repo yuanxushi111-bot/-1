@@ -1,0 +1,376 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "international-tax-primer-5",
+      "title": "国际税收基础（第五版·中英双语，2024）",
+      "role": "textbook",
+      "path": "library/sources/教材/15539476.md",
+      "sha256": "34294c3181b478d1d27ea3dd98f5a6ab1f170947f13fa6badae0115b653ebdfb",
+      "verification": "source_text_not_fully_proofread"
+    },
+    {
+      "id": "international-tax-liao-2008",
+      "title": "国际税法学（廖益新，2008）",
+      "role": "textbook",
+      "path": "library/sources/教材/国际税法学_12077563(1).md",
+      "sha256": "a3d6790152be7212e0415b2af3de2878c73b5ca5e424a4d243b9a64f519c627c",
+      "verification": "source_text_not_fully_proofread"
+    },
+    {
+      "id": "international-tax-liu-2020",
+      "title": "国际税法学（刘剑文，第四版，2020）",
+      "role": "textbook",
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363.md",
+      "sha256": "05d33e4fd935db6d07dcf5afc1cdbca2182e0bb47d9d11538b7f36c46698cd16",
+      "verification": "source_text_not_fully_proofread"
+    },
+    {
+      "id": "tax-principles-11",
+      "title": "税法原理（张守文，第十一版，2024）",
+      "role": "textbook",
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索.md",
+      "sha256": "bb0f508f070f77f53d5a11f0a6cc2735a1ee985a51d5ab6938cae621fa5de5a9",
+      "verification": "source_text_not_fully_proofread"
+    },
+    {
+      "id": "xmu-2023-exam",
+      "title": "2023年厦大法学考研初试真题",
+      "role": "exam",
+      "path": "library/sources/真题和答案/2023年厦大法学考研初试真题.md",
+      "sha256": "b7a93dc7584be436e47bce82c40013e638ac1a65c831b89dd1b2db45c72cc666",
+      "verification": "source_text_not_fully_proofread",
+      "year": 2023
+    },
+    {
+      "id": "xmu-2023-answers",
+      "title": "2023年厦大法学考研初试答案",
+      "role": "answers",
+      "path": "library/sources/真题和答案/2023年厦大法学考研初试答案.md",
+      "sha256": "840ef2e048483db5d43d33b5464c23924b5a90d451adf20e9f92f9c68bd3b968",
+      "verification": "source_text_not_fully_proofread",
+      "year": 2023
+    },
+    {
+      "id": "xmu-2024-exam",
+      "title": "2024年厦大法学考研初试真题",
+      "role": "exam",
+      "path": "library/sources/真题和答案/2024年厦大法学考研初试真题.md",
+      "sha256": "3b461474411128c630970432c315663a0afaa998cb5d37d50f525244f0740607",
+      "verification": "source_text_not_fully_proofread",
+      "year": 2024
+    },
+    {
+      "id": "xmu-2024-answers",
+      "title": "2024年厦大法学考研初试答案",
+      "role": "answers",
+      "path": "library/sources/真题和答案/2024年厦大法学考研初试答案.md",
+      "sha256": "1c711b664d0c47ac6ab20571136428b594390f60af5b558ea4543742111a517a",
+      "verification": "source_text_not_fully_proofread",
+      "year": 2024
+    },
+    {
+      "id": "xmu-2025-exam",
+      "title": "2025年厦大法学考研初试真题",
+      "role": "exam",
+      "path": "library/sources/真题和答案/2025年厦大法学考研初试真题.md",
+      "sha256": "09a38d72bcd297a592b71df018a234ea4ab98bc47404d4227414a65a0300b4c7",
+      "verification": "source_text_not_fully_proofread",
+      "year": 2025
+    },
+    {
+      "id": "xmu-2026-exam",
+      "title": "2026年厦大法学考研初试真题",
+      "role": "exam",
+      "path": "library/sources/真题和答案/2026年厦大法学考研初试真题.md",
+      "sha256": "f785d60124afa8c9057a78601399247901fa156c4f0cd84c2d7cf0384d518172",
+      "verification": "source_text_not_fully_proofread",
+      "year": 2026
+    },
+    {
+      "id": "guide-99019f58f647",
+      "title": "2023—2026年厦大COTP教材重点与复习清单",
+      "role": "guide",
+      "path": "library/sources/重点/2023—2026年厦大COTP教材重点与复习清单.md",
+      "sha256": "997d12df271c7778205c648d016b43a718cbbc7be37b5b1407c120938ca6e53f",
+      "verification": "source_text_not_fully_proofread"
+    },
+    {
+      "id": "guide-545cc8845635",
+      "title": "国际税收基础（第五版中英双语）—真题重点批注版",
+      "role": "guide",
+      "path": "library/sources/重点/教材重点标注/国际税收基础（第五版中英双语）—真题重点批注版.md",
+      "sha256": "bfe726b8ad77952da7c53eaa34b6409d66e5caf85c198ca56b17263f38dea113",
+      "verification": "source_text_not_fully_proofread"
+    },
+    {
+      "id": "guide-da37484cb7dc",
+      "title": "国际税法学（刘剑文第四版）—真题重点批注版",
+      "role": "guide",
+      "path": "library/sources/重点/教材重点标注/国际税法学（刘剑文第四版）—真题重点批注版.md",
+      "sha256": "4cf1418b6fc5e84514ae71e883ad4a1d864355969955eea86664b6af8c5f1958",
+      "verification": "source_text_not_fully_proofread"
+    },
+    {
+      "id": "guide-07bef67b1548",
+      "title": "国际税法学（廖益新2008版）—真题重点批注版",
+      "role": "guide",
+      "path": "library/sources/重点/教材重点标注/国际税法学（廖益新2008版）—真题重点批注版.md",
+      "sha256": "585ebe12725f4b49c43939e198bf9524ebeaa35c636de07508e55f6b53267a3d",
+      "verification": "source_text_not_fully_proofread"
+    },
+    {
+      "id": "guide-ba9922b57263",
+      "title": "税法原理（第十一版）—真题重点批注版",
+      "role": "guide",
+      "path": "library/sources/重点/教材重点标注/税法原理（第十一版）—真题重点批注版.md",
+      "sha256": "d2f85546d1aebd6ff62259b9ddba6d71770c402bd995ad067c2c498480a2e769",
+      "verification": "source_text_not_fully_proofread"
+    }
+  ],
+  "files": [
+    {
+      "path": "library/sources/其他/真题截图原件/2023年原始截图.png",
+      "sha256": "b7f3eff14a474b5d9bfafbfc37781a30c628c1276b70ef85bf13fdda056783bc"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年原始截图.png",
+      "sha256": "85149adf9fdc57cfbf4860e5d2e9f79c920cc097c4e38f1f9b39cc091835e85e"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年简答题完整截图-20261110.png",
+      "sha256": "7c83d41f1b8f07de7b31b5e408f52d301f52497789fb123173b1ec07a70dc6b0"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年补充截图1.png",
+      "sha256": "1b7f340a05c86f1b7ffc71676fd3cbb3f834eedca20bdb16e16b703c8fe2cd51"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年补充截图2.png",
+      "sha256": "9bad5936fe10297aa27561fffca366bfa6dc5b552cdeb0f77722a744bbfbccf4"
+    },
+    {
+      "path": "library/sources/其他/真题截图原件/2024年补充截图3.png",
+      "sha256": "2e966e592661328bb5589367a04a909db2beedee6d836ab8ac304dd6fa0e3f00"
+    },
+    {
+      "path": "library/sources/其他/真题来源原件/厦大COTP项目初试历年真题2023-2026小红书版.pdf",
+      "sha256": "bf3c2f64b612aed2ad08e94867aee3d82b93452a165ffd504e5f47ca474d38a0"
+    },
+    {
+      "path": "library/sources/教材/15539476.md",
+      "sha256": "34294c3181b478d1d27ea3dd98f5a6ab1f170947f13fa6badae0115b653ebdfb"
+    },
+    {
+      "path": "library/sources/教材/15539476_assets/page-625-block-2.png",
+      "sha256": "a544f4610309637cb4bebc0d0b32a972f76b80d7d132994bd45275ca0af65552"
+    },
+    {
+      "path": "library/sources/教材/15539476_assets/page-625-block-5.png",
+      "sha256": "57de88f268d52dec55deaac58d6cd38df7e3e53367edb84628a5aafa61fe0e09"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363.md",
+      "sha256": "05d33e4fd935db6d07dcf5afc1cdbca2182e0bb47d9d11538b7f36c46698cd16"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-144-block-1.png",
+      "sha256": "7a2a4a8e5d6da0456c0b47252d320af8b3c44d4bbd23551d0a2c1694a4df98a3"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-144-block-4.png",
+      "sha256": "3f3ec97c191fe89b4aa56b2ac13bc49f4bfdffae4eb7beafb023ec59305ca097"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-151-block-7.png",
+      "sha256": "8710bfe1bf2a1f9b6f7e8584bb2b880118335b5ca4f55671b952dbeca81accae"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-165-block-10.png",
+      "sha256": "3b017c042ecdc6747abe83e68efe44aa81a7b8fcd00b9269be283a3aa52e6886"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-184-block-1.png",
+      "sha256": "6acc3d0f3818ffea2265af076f0c52de24397b5a8e00545432ce7f6384e2ae45"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-230-block-6.png",
+      "sha256": "4f7fa565d9e587f1d5cc7429bda197f8065e86e45432b14ae0221a4dbdd17ffe"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-231-block-4.png",
+      "sha256": "5d9f7b778bc617948371fc5a7552d13ec73e1ee5d28f7b578354971f892ad7b5"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-244-block-1.png",
+      "sha256": "933f04495437dbc0c4993159343feeeb4389b5826a8b11c68213d74a7f234b67"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-283-block-6.png",
+      "sha256": "52e48b084e1fa24b03257e9d21a5c3ebae5154c75d89dba8c866a31d28850336"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-301-block-7.png",
+      "sha256": "91db2b43883ec186187779998de98ebbae1d45de713810edb1a97c1be7d9ee62"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-302-block-4.png",
+      "sha256": "620483b2a0802b401c8c8647f64127bed2a0114838289de5db05c04eb68d1669"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-305-block-4.png",
+      "sha256": "38395559be62befd443517cd53751a148b633b5bd283077e0b1435ecea2605ee"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-307-block-4.png",
+      "sha256": "60ed3fb2d2daf31c1b8b38a7bd26df2cd454477cec548a369272b7d93153ab71"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-308-block-3.png",
+      "sha256": "d52085df8c4c5061f756e8ddb546e66aabb42cf4a8e369c8dd65bc8ef781745b"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-321-block-5.png",
+      "sha256": "1b8e8dc10194b0e931d473161da4f5d9f144c9af2d4ea527e9e14f862b5a1640"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-342-block-1.png",
+      "sha256": "e3f5bca11ae426b71c67c8f6c8d1c452e823d73ac34547997fa51892f9984892"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-355-block-1.png",
+      "sha256": "258fd306c0d4114229b6acdd3114d340b9982f1ae040ab0486057906b477586d"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-424-block-3.png",
+      "sha256": "a85487d2665f7b8af3fd6d5702fd978ef04d7ad4f48c742da5cf68cd60da7602"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-426-block-4.png",
+      "sha256": "26fb580db61901ec8651677f1a222af6b2bfbb7b9d91c6ced7b705a69477ac12"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-492-block-1.png",
+      "sha256": "26f2d149d7af54b1fb982b4379daa4f3bc1adb95a8e2f306bf8ca473fcb802dd"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-492-block-5.png",
+      "sha256": "085f3b028bba9e810c384086cffcf5a1e7f2db04cab01fefc11b20503267713c"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-492-block-9.png",
+      "sha256": "0e5805c53d78ff0b4f3f20f26cadaa2df64f8298affc77e450620dd5c4089d13"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-493-block-11.png",
+      "sha256": "f00d9f9e431492d852e4ba7304aea4e374b65db8a8ecd99cc85d215c31f5b3e1"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-493-block-13.png",
+      "sha256": "97ab8da6882b87310b10573bf5cbf3922a15ac1a07bce23096216c55f50d58f3"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-83-block-3.png",
+      "sha256": "1500db1ae47a9c924f55c2aeb3541edfc10c8cdfec88d6d8737aa6a5589d1a1b"
+    },
+    {
+      "path": "library/sources/教材/国际税法学   第4版,刘剑文主编,2020_14764363_assets/page-83-block-4.png",
+      "sha256": "10debfd6f095aa76088c2ec7d3dffe6fd23584d2b34aed5d5f6860449968a979"
+    },
+    {
+      "path": "library/sources/教材/国际税法学_12077563(1).md",
+      "sha256": "a3d6790152be7212e0415b2af3de2878c73b5ca5e424a4d243b9a64f519c627c"
+    },
+    {
+      "path": "library/sources/教材/国际税法学_12077563(1)_assets/page-2-block-12.png",
+      "sha256": "dbee48157ab0e78c70182b3e5801d3a53ebced4b9d07d0ef4a0d72421dcf26f6"
+    },
+    {
+      "path": "library/sources/教材/国际税法学_12077563(1)_assets/page-402-block-42.png",
+      "sha256": "d571e416fe7f312f67360750d2324f722e555eea3d618e08f852a72747718373"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索.md",
+      "sha256": "bb0f508f070f77f53d5a11f0a6cc2735a1ee985a51d5ab6938cae621fa5de5a9"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索_assets/page-1-block-1.png",
+      "sha256": "848efb475f2f31baedb8977805fbe77509636ad757fe44e743326e6fa6547cc6"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索_assets/page-1-block-3.png",
+      "sha256": "6848b7a8a72d76335bb294bbfdcdc5acbc1d34efe6f366974fdef0585d687797"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索_assets/page-2-block-1.png",
+      "sha256": "d7087a5bc443a86803aefb2532dd19064cf70d93e58827ffc783239cd21deacb"
+    },
+    {
+      "path": "library/sources/教材/税法原理 第十一版 张守文 可复制搜索_assets/page-2-block-4.png",
+      "sha256": "5a0d0d0d62461a8417abfd7aa607c0823a33dde8d43fadb78798532a8c8d9ce1"
+    },
+    {
+      "path": "library/sources/真题和答案/2023年厦大法学考研初试真题.md",
+      "sha256": "b7a93dc7584be436e47bce82c40013e638ac1a65c831b89dd1b2db45c72cc666"
+    },
+    {
+      "path": "library/sources/真题和答案/2023年厦大法学考研初试答案.md",
+      "sha256": "840ef2e048483db5d43d33b5464c23924b5a90d451adf20e9f92f9c68bd3b968"
+    },
+    {
+      "path": "library/sources/真题和答案/2024年厦大法学考研初试真题.md",
+      "sha256": "3b461474411128c630970432c315663a0afaa998cb5d37d50f525244f0740607"
+    },
+    {
+      "path": "library/sources/真题和答案/2024年厦大法学考研初试答案.md",
+      "sha256": "1c711b664d0c47ac6ab20571136428b594390f60af5b558ea4543742111a517a"
+    },
+    {
+      "path": "library/sources/真题和答案/2025年厦大法学考研初试真题.md",
+      "sha256": "09a38d72bcd297a592b71df018a234ea4ab98bc47404d4227414a65a0300b4c7"
+    },
+    {
+      "path": "library/sources/真题和答案/2026年厦大法学考研初试真题.md",
+      "sha256": "f785d60124afa8c9057a78601399247901fa156c4f0cd84c2d7cf0384d518172"
+    },
+    {
+      "path": "library/sources/重点/2023—2026年厦大COTP教材重点与复习清单.md",
+      "sha256": "997d12df271c7778205c648d016b43a718cbbc7be37b5b1407c120938ca6e53f"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/国际税收基础（第五版中英双语）—真题重点批注版.md",
+      "sha256": "bfe726b8ad77952da7c53eaa34b6409d66e5caf85c198ca56b17263f38dea113"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/国际税法学（刘剑文第四版）—真题重点批注版.md",
+      "sha256": "4cf1418b6fc5e84514ae71e883ad4a1d864355969955eea86664b6af8c5f1958"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/国际税法学（廖益新2008版）—真题重点批注版.md",
+      "sha256": "585ebe12725f4b49c43939e198bf9524ebeaa35c636de07508e55f6b53267a3d"
+    },
+    {
+      "path": "library/sources/重点/教材重点标注/税法原理（第十一版）—真题重点批注版.md",
+      "sha256": "d2f85546d1aebd6ff62259b9ddba6d71770c402bd995ad067c2c498480a2e769"
+    }
+  ],
+  "warnings": [
+    {
+      "file": "library/sources/重点/教材重点标注/税法原理（第十一版）—真题重点批注版.md",
+      "issue": "original_pdf_reference_redirected_to_bundled_markdown"
+    },
+    {
+      "file": "library/sources/重点/教材重点标注/国际税法学（刘剑文第四版）—真题重点批注版.md",
+      "issue": "original_pdf_reference_redirected_to_bundled_markdown"
+    },
+    {
+      "file": "library/sources/重点/教材重点标注/国际税法学（廖益新2008版）—真题重点批注版.md",
+      "issue": "original_pdf_reference_redirected_to_bundled_markdown"
+    },
+    {
+      "file": "library/sources/重点/教材重点标注/国际税收基础（第五版中英双语）—真题重点批注版.md",
+      "issue": "original_pdf_reference_redirected_to_bundled_markdown"
+    }
+  ],
+  "policy": "Only textbook sources enter diagnostic search; reference answers are opt-in."
+}
