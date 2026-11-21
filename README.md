@@ -12,7 +12,7 @@ V1.2新增每日学习、严明讲义背诵卡和根据当日已背内容出自�
 
 本仓库按维护者要求包含完整知识库：`library/`中的教材、讲义、题库、图片、背诵卡及历史资料，以及`indexes/`中的检索索引。个人学习记录和模型密钥保存在使用者电脑，不上传。
 
-**Windows使用者请打开 [V1.2完整部署下载页](https://github.com/yuanxushi111-bot/-1/releases/tag/v1.2.0)**。大附件上传不稳定时，发行页使用5个分段和`download-complete-v1.2.0.cmd`下载器：只需下载并双击下载器，它会自动下载、逐段校验、合成为原始完整ZIP，其中包含知识库、Python和MinerU依赖。详细步骤见[GitHub部署与维护说明](docs/github-deployment.md)。文件名中的`private`沿用早期完整资料包命名，在此公开仓库中不表示下载权限受限。
+**Windows使用者请打开 [V1.2完整部署下载页](https://github.com/yuanxushi111-bot/-1/releases/tag/v1.2.0)**。大附件上传不稳定时，发行页使用分段附件和`download-complete-v1.2.0.cmd`下载器：只需下载并双击下载器，它会自动下载、逐段校验、合成为原始完整ZIP，其中包含知识库、Python和MinerU依赖。详细步骤见[GitHub部署与维护说明](docs/github-deployment.md)。文件名中的`private`沿用早期完整资料包命名，在此公开仓库中不表示下载权限受限。
 
 GitHub的Code ZIP和`git clone`包含代码与知识库，未附Windows运行环境；`public-source.zip`另为不含教材的源码包。直接给朋友部署时选择上述完整包。
 
