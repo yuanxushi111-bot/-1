@@ -7,12 +7,14 @@
 ## 下载给Windows朋友使用
 
 1. 打开[V1.2发行页](https://github.com/yuanxushi111-bot/-1/releases/tag/v1.2.0)。
-2. 下载`tax-exam-skill-1.2.0-windows-x64-private.zip`，这是包含资料和运行环境的完整包；名称沿用旧版本，不代表私有下载。
+2. 下载并双击`download-complete-v1.2.0.cmd`。它会自动下载5个分段，逐段校验SHA-256，再合成为`tax-exam-skill-1.2.0-windows-x64-private.zip`，并校验完整ZIP。这是包含资料和运行环境的完整包；名称沿用旧版本，不代表私有下载。下载中断后可重新运行，已校验分段会复用。若发行页另有完整ZIP，也可直接下载。
 3. 解压到有写入权限的新目录，双击`检查安装.cmd`。
 4. 在DeepSeek Harness中选择整个项目根目录，配置自己的模型连接，并在新会话调用`/tax-exam-coach`。
 5. 从[每日背诵与自测教程](v1.2-guide.md)开始；从旧版本迁移先看[升级说明](upgrade-v1.2.md)。
 
 随包MinerU依赖可用，但大型OCR模型不在包内，须按[转换说明](mineru.md)明确准备。Python运行环境只面向Windows x64；宿主程序和模型密钥不随包提供。
+
+分段仅用于绕过大附件上传中断，合并后的ZIP字节与原始完整包一致，不省略依赖或资料。下载器只下载与合并，不修改学习记录、不自动运行Agent。请通过原项目发行页取得下载器；源代码见`scripts/download_release.ps1`。也可在PowerShell执行`powershell -NoProfile -ExecutionPolicy Bypass -File scripts/download_release.ps1 -OutputDirectory D:\exam-download`。
 
 ## 仓库与Release的内容
 
