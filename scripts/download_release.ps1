@@ -28,9 +28,17 @@ function Receive-File([string]$Name, [string]$Target) {
 }
 
 function Test-File([string]$Path, [long]$Length, [string]$Hash) {
-    return ((Test-Path -LiteralPath $Path -PathType Leaf) -and
-        (Get-Item -LiteralPath $Path).Length -eq $Length -and
-        (Get-FileHash -LiteralPath $Path -Algorithm SHA256).Hash -eq $Hash)
+    if (-not (Test-Path -LiteralPath $Path -PathType Leaf)) { return $false }
+    if ((Get-Item -LiteralPath $Path).Length -ne $Length) { return $false }
+    $stream = [IO.File]::OpenRead($Path)
+    $algorithm = [Security.Cryptography.SHA256]::Create()
+    try {
+        $actual = [BitConverter]::ToString($algorithm.ComputeHash($stream)).Replace('-', '')
+        return $actual -eq $Hash
+    } finally {
+        $algorithm.Dispose()
+        $stream.Dispose()
+    }
 }
 
 try {
